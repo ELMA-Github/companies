@@ -24,6 +24,7 @@ Interesting companies to work in for ELMA people. Feel free to add to the list.
 - Utiligize: also started from people in ELMA group. Reallyy experts. Scaling up now.
 - Enyday: software for Energy Communities (Ben/Jalal knows them best)
 - Stiesdal: really exciting projects about storing heat in rocks. Located in Jutland I think
+- Dansk Energi
 
 ### Miscellaneous: 
 - HalfSpace: data science consultancy. None better in Denmark I believe. Only hires extremely qualified people. I think Pierre Pinson is in the advisory board.
