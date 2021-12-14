@@ -4,7 +4,8 @@ Interesting companies to work in for ELMA people. Feel free to add to the list.
 ### Energy/power related
 - InCommodities (Aarhus): a BRP which have many talented employees. On top of my own list.
 - Danske Commodities (Aarhus): a BRP. Also interesting and trading power as well.
-- Energi Danmark: a BRP as well.
+- Energi Danmark Group: a BRP as well.
+- Danish Energy Agency: government body that legislates on power etc.
 - Ea Energy Analyses: consultancy in power, heat, gas etc.
 - Clever: EV charging stations
 - Floating power plant.
