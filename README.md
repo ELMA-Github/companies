@@ -28,6 +28,7 @@ Interesting companies to work in for ELMA people. Feel free to add to the list.
 - Alipes Energy: new BRP energy trading company. Related to Energy capital which is an (stock) trading company. Located in Copenhagen.
 - OK: energy retailer, located in Jutland. Has big ambitions of being an aggregator I think.
 - ento.ai: energy optimization of buildings using algorithms and ML. Located in Jutland.
+- Forsyningstilsynet (danish regulator in energy sector)
 
 ### Miscellaneous: 
 - HalfSpace: data science consultancy. None better in Denmark I believe. Only hires extremely qualified people. I think Pierre Pinson is in the advisory board.
